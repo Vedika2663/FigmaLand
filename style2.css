@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: #181818;
 }
 p.a{
     margin-top: 0px;
@@ -27,6 +27,6 @@ p.c{
 }
 button.d{
     border: 0px;
-    background-color: blue;
+    background-color: #4452fe;
     margin-right: 10px;
 }
